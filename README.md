@@ -1,0 +1,2 @@
+# token
+Freedom Talk Token
